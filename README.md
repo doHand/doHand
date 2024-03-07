@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20doHand.&fontSize=70&color=auto,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Haji%20Son.&fontSize=70&color=auto,100:b678c4&stroke=b678c4)
 
 </hr>
