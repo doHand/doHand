@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&size=30&duration=4000&pause=1000&color=1CA3BD&center=true&vCenter=true&random=false&width=435&height=80&lines=Hi+there%2C+I'm+Haji+Son.+;Nice+to+meet+you+!)](https://git.io/typing-svg) </br></br>
 
-![1786b119778bb1ca718047c3a20e7285](https://github.com/doHand/doHand/assets/136147026/231dda97-b3b3-4bbe-97c3-706bda6d7b5f)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -29,10 +28,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
@@ -40,7 +37,6 @@ Here are some ideas to get you started:
 <div align="center">
      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
 </div>
 
@@ -64,6 +60,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/SubStance%20Painter-F80000?style=for-the-badge&logo=substance-painter&logoColor=white" />
 </div>
 
-</br></br>
-[![DoHand's GitHub stats](https://github-readme-stats.vercel.app/api?username=doHand)](https://github.com/doHand/github-readme-stats)
+
+<h3 align="center">✨ Tools ✨</h3>
+
+
+<div align="center">
+
+   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
+     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visual%20Studio-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+         <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" />
 </div>
+
+
+</br></br>
