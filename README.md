@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&size=30&duration=4000&pause=1000&color=1CA3BD&center=true&vCenter=true&random=false&width=435&height=80&lines=Hi+there%2C+I'm+Haji+Son.+;Nice+to+meet+you+!)](https://git.io/typing-svg) </br></br>
 
+![1786b119778bb1ca718047c3a20e7285](https://github.com/doHand/doHand/assets/136147026/65ef92eb-5303-4f97-b411-ec4c0f88345a)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
