@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ![1786b119778bb1ca718047c3a20e7285](https://github.com/doHand/doHand/assets/136147026/65ef92eb-5303-4f97-b411-ec4c0f88345a)
 
-<h3 align="center"> Notion </h3>
- https://gkwl554.notion.site/41d6686781ce4dc0818af4e8fc09f7d9?pvs=4
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -77,7 +76,7 @@ Here are some ideas to get you started:
 </div>
 <h3 align="center">✨ Project Link ✨</h3>
 <div align="center">
-https://github.com/doHand/Project.git
-
-</div>
+https://github.com/doHand/Project.git</div>
+<h3 align="center"> Notion </h3>
+ https://gkwl554.notion.site/41d6686781ce4dc0818af4e8fc09f7d9?pvs=4
 </br></br>
