@@ -77,6 +77,6 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Project Link ✨</h3>
 <div align="center">
 https://github.com/doHand/Project.git</div>
-<h3 align="center"> Notion </h3>
+<h3 align="center"> Notion  (현재 오류 해결 중)</h3>
  https://gkwl554.notion.site/41d6686781ce4dc0818af4e8fc09f7d9?pvs=4
 </br></br>
