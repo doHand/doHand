@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div align="center">
      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-     <img src="https://img.shields.io/badge/amazonaws-#232F3E?style=for-the-badge&logo=amazonawse&logoColor=white" />
+     <img src="https://img.shields.io/badge/amazonaws-#232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 <h3 align="center">✨ Design Stack ✨</h3>
